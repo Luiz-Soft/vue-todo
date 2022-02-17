@@ -1,4 +1,5 @@
 # todo
+Simple todo web-app that uses vue.js and localStorage as db 
 
 ## Project setup
 ```
